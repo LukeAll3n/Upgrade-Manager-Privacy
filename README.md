@@ -57,7 +57,7 @@ No credentials or tokens are stored outside of the user's local device storage.
 
 If you have any questions about this policy, please contact:
 **Luke Allen**
-UpgradeManager@jamf.com
+- UpgradeManager@jamf.com
 
 ---
 
