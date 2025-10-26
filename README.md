@@ -1,4 +1,4 @@
-# Upgrade-Manager-Privacy
+# Upgrade Manager Privacy
 Privacy Policy for Upgrade Manager (TestFlight Preview)
 
 _Last Updated: 26th October 2025_
