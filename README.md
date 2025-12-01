@@ -1,7 +1,7 @@
 # Upgrade Manager Privacy
 Privacy Policy for Upgrade Manager (TestFlight Private Beta)
 
-_Last Updated: 26th October 2025_
+_Last Updated: 1st December 2025_
 
 Upgrade Manager is a mobile application created by Luke Allen, and signed by Jamf.
 This privacy policy explains how the app handles data for TestFlight users.
